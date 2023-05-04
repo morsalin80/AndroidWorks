@@ -93,7 +93,7 @@ object Constants {
             "Denmark",
             "Italy",
             "Germany",
-            1
+            4
         )
         questionList.add(question7)
 
